@@ -1,7 +1,3 @@
-Perfetto. Ecco una descrizione adatta per il file `README.md` del tuo progetto su GitHub:
-
----
-
 # Anonimizzazione e Summarization di Testi Clinici con BERT e ChatGPT
 
 Questo progetto esplora un approccio ibrido per l'**anonimizzazione automatica** e la **sintesi di testi clinici**, combinando tecniche di **Named Entity Recognition (NER)** basate su BERT adattato al dominio biomedico e **modelli LLM** per la text summarization, come ChatGPT.
