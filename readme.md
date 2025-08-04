@@ -52,11 +52,3 @@ Tra questi, i modelli NER basati su **BioBERT** o simili si sono rivelati i più
 ## Requisiti
 
 * Colab
-
-## Licenza
-
-Distribuito sotto licenza MIT.
-
----
-
-Fammi sapere se vuoi anche aggiungere una sezione con esempi pratici di input/output o un badge per Hugging Face se pubblichi lì.
